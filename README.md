@@ -17,13 +17,25 @@ Fetching entails pulling data that you don't have from a remote project. Here is
 
 # Renaming/Removing Remotes
 
-**Rename
+**Rename :left_speech_bubble:	
 
 To rename a remote’s short name, `use the git remote rename command.`
 
 Example:
 ![ex2](see2.jpg)
 
+# Commit Mistakes 💥
 
+`You can use the –amend command when you need to alter a commit message or forgot to add some files.`
+
+`**$ git commit --amend**`
+
+*In the example above, you can use this command to easily change your commit message, if no changes were made since the newest commit*
+
+`$ git commit -m “my first commit”`
+
+`$ git add example_file`
+
+`$ git commit --amend`
 
 
