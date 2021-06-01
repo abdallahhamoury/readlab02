@@ -1,5 +1,24 @@
 # readlab02
 
+# INTRODUCTION
+
+## Prerequisites
+
+Before beginning this tutorial, it is highly recommended that you have a solid understanding of the Terminal *(for Mac)* or Command Line *(for Windows and Linux)*.
+
+## Version Control
+
+
+
+
+
+
+
+
+
+
+
+
 # `Seeing Your Remotes`
 
 By running the git remote command, you can view the short names, such as `“origin,”` of all specified remote handles.
