@@ -22,5 +22,8 @@ Fetching entails pulling data that you don't have from a remote project. Here is
 To rename a remote’s short name, `use the git remote rename command.`
 
 Example:
+![ex2](see2.jpg)
+
+
 
 
